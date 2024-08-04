@@ -1,2 +1,0 @@
-- 👋 Hi, I’m Cheezy!
-- 👀 im making a fangame
